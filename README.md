@@ -18,3 +18,7 @@ https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-comp
 4. Users with two purchases.sql -
 
 https://leetcode.com/problems/users-with-two-purchases-within-seven-days/
+
+5. Hopper Company Query III.sql -
+
+https://leetcode.com/problems/hopper-company-queries-iii/
