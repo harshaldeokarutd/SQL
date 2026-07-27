@@ -10,3 +10,11 @@
   https://leetcode.com/problems/active-users/?envType=problem-list-v2&envId=d737n6zg
 
 It shows how to find out consecutive records based, for example find out the user who is logging in daily for 5 consecutive days.
+
+3. The Number of Seniors and Juniors to Join the Company.sql -
+
+https://leetcode.com/problems/the-number-of-seniors-and-juniors-to-join-the-company/description/
+
+4. Users with two purchases.sql -
+
+https://leetcode.com/problems/users-with-two-purchases-within-seven-days/
