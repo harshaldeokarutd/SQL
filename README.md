@@ -26,3 +26,7 @@ https://leetcode.com/problems/hopper-company-queries-iii/
 6. The number of passengers in bus I.sql -
 
 https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i/description/
+
+7. Popularity Percentage.sql -
+
+https://leetcode.com/problems/popularity-percentage/description/
