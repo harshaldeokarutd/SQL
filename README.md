@@ -30,3 +30,7 @@ https://leetcode.com/problems/the-number-of-passengers-in-each-bus-i/description
 7. Popularity Percentage.sql -
 
 https://leetcode.com/problems/popularity-percentage/description/
+
+8. Charatcers with strictly increasing purchases.sql - 
+
+https://leetcode.com/problems/customers-with-strictly-increasing-purchases/description/
