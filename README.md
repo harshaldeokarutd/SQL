@@ -34,3 +34,8 @@ https://leetcode.com/problems/popularity-percentage/description/
 8. Charatcers with strictly increasing purchases.sql - 
 
 https://leetcode.com/problems/customers-with-strictly-increasing-purchases/description/
+
+
+9. Rolling average steps.sql :- 
+
+https://leetcode.com/problems/rolling-average-steps/
