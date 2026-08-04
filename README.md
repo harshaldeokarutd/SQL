@@ -39,3 +39,7 @@ https://leetcode.com/problems/customers-with-strictly-increasing-purchases/descr
 9. Rolling average steps.sql :- 
 
 https://leetcode.com/problems/rolling-average-steps/
+
+10. Find Cities in each state :-
+
+https://leetcode.com/problems/find-cities-in-each-state/
