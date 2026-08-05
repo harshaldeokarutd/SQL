@@ -43,3 +43,7 @@ https://leetcode.com/problems/rolling-average-steps/
 10. Find Cities in each state :-
 
 https://leetcode.com/problems/find-cities-in-each-state/
+
+11. Consecutive Available Seats II :-
+
+https://leetcode.com/problems/consecutive-available-seats-ii/description/
