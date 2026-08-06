@@ -47,3 +47,7 @@ https://leetcode.com/problems/find-cities-in-each-state/
 11. Consecutive Available Seats II :-
 
 https://leetcode.com/problems/consecutive-available-seats-ii/description/
+
+12. Find Students Who Improved :-
+
+https://leetcode.com/problems/find-students-who-improved/description/
