@@ -60,3 +60,11 @@ https://leetcode.com/problems/calculate-orders-within-each-interval/
 14. Find Consistenly improving employees :- 
 
 https://leetcode.com/problems/find-consistently-improving-employees/description/
+
+15. Friends With No Mutual Friends :- 
+
+https://leetcode.com/problems/friends-with-no-mutual-friends/description/
+
+16. Longest Winning Streak :-
+
+https://leetcode.com/problems/longest-winning-streak/description/
