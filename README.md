@@ -68,3 +68,8 @@ https://leetcode.com/problems/friends-with-no-mutual-friends/description/
 16. Longest Winning Streak :-
 
 https://leetcode.com/problems/longest-winning-streak/description/
+
+17. Find Churn Risk Customers :- 
+
+https://leetcode.com/problems/find-churn-risk-customers/description/
+
