@@ -73,3 +73,7 @@ https://leetcode.com/problems/longest-winning-streak/description/
 
 https://leetcode.com/problems/find-churn-risk-customers/description/
 
+
+18.  CEO Subordinate Hierarchy :-
+
+https://leetcode.com/problems/ceo-subordinate-hierarchy/description/
