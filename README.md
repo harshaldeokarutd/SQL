@@ -77,3 +77,7 @@ https://leetcode.com/problems/find-churn-risk-customers/description/
 18.  CEO Subordinate Hierarchy :-
 
 https://leetcode.com/problems/ceo-subordinate-hierarchy/description/
+
+19. Forward Filling :-
+
+https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value/description/ 
