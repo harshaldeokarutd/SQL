@@ -81,3 +81,8 @@ https://leetcode.com/problems/ceo-subordinate-hierarchy/description/
 19. Forward Filling :-
 
 https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-value/description/ 
+
+20. Find median given frequency of numbers :-
+
+https://leetcode.com/problems/find-median-given-frequency-of-numbers/description/ 
+how to find median in MySQL
