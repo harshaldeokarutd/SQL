@@ -86,3 +86,11 @@ https://leetcode.com/problems/change-null-values-in-a-table-to-the-previous-valu
 
 https://leetcode.com/problems/find-median-given-frequency-of-numbers/description/ 
 how to find median in MySQL
+
+21. Find Product Recommendation Pairs :-
+
+https://leetcode.com/problems/find-product-recommendation-pairs/description/
+
+22. Find Category Recommendation Paris :-
+
+https://leetcode.com/problems/find-category-recommendation-pairs/
