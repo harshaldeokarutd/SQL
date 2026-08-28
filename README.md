@@ -94,3 +94,7 @@ https://leetcode.com/problems/find-product-recommendation-pairs/description/
 22. Find Category Recommendation Paris :-
 
 https://leetcode.com/problems/find-category-recommendation-pairs/
+
+23. Pizza Toppings Cost Analysis :-
+
+https://leetcode.com/problems/pizza-toppings-cost-analysis/description/
