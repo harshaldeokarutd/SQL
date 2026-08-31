@@ -106,3 +106,7 @@ https://leetcode.com/problems/find-overlapping-shifts/description/
 25. DNA Pattern Recognition :-
 
 https://leetcode.com/problems/dna-pattern-recognition/
+
+26. Hopper Company Queries II :-
+
+https://leetcode.com/problems/hopper-company-queries-ii/description/
