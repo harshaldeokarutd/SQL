@@ -102,3 +102,7 @@ https://leetcode.com/problems/pizza-toppings-cost-analysis/description/
 24. Find Overlapping Shifts :- 
 
 https://leetcode.com/problems/find-overlapping-shifts/description/
+
+25. DNA Pattern Recognition :-
+
+https://leetcode.com/problems/dna-pattern-recognition/
