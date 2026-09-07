@@ -110,3 +110,7 @@ https://leetcode.com/problems/dna-pattern-recognition/
 26. Hopper Company Queries II :-
 
 https://leetcode.com/problems/hopper-company-queries-ii/description/
+
+27. Consecutive transactions with increasing amounts :-
+
+https://leetcode.com/problems/consecutive-transactions-with-increasing-amounts/description/
