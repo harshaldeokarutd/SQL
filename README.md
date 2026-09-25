@@ -114,3 +114,7 @@ https://leetcode.com/problems/hopper-company-queries-ii/description/
 27. Consecutive transactions with increasing amounts :-
 
 https://leetcode.com/problems/consecutive-transactions-with-increasing-amounts/description/
+
+28. Find Candidates for Data Scientist Position II :- 
+
+https://leetcode.com/problems/find-candidates-for-data-scientist-position-ii/description/
